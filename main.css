@@ -1,0 +1,59 @@
+.calc{
+    width: 240px;
+    height: 340px;
+    margin: 100px auto;
+    background-color: #ccc;
+    box-shadow: 2px 2px 6px #676666;
+}
+
+#result{
+    width: 240px;
+    height: 100px;
+    background-color: blue;
+    margin: 0px;
+    border: 0px;
+    color: #fff;
+    font-size: 25px;
+    padding: 0px;
+    text-align: right;
+}
+
+
+#result:hover{
+    padding-block: 0px;
+    padding-inline: 0px;
+}
+#allinputs{
+    width: 240px;
+    height: 240px;
+}
+.nums{
+    width: 180px;
+    height: 240px;
+    float: left;
+}
+.oper{
+width: 60px;
+height: 240px;
+float: left;
+}
+.nums button{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin: 0px;
+    border: 0px;
+    font-size: 20px;
+    background-color: rgb(20, 31, 31);
+    color: #fff;
+}
+.oper button{
+    float: left;
+    width: 60px;
+    height: 40px;
+    margin: 0px;
+    border: 0px;
+    font-size: 20px;
+    background-color: rgb(20, 31, 31);
+    color: #fff;
+}
