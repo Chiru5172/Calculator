@@ -1,2 +1,2 @@
-Change the source of css file and javascript file path in index.html file.
 This is a small calculator project using html,css,js
+Run directly to use it.
